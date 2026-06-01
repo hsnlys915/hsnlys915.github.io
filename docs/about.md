@@ -12,6 +12,7 @@ I received my Master's degree in Political Science and International Relations f
 Right now, my research interests revolve around two central questions:
 - Why do individuals or states use violence or support the use of violence despite there are peaceful alternatives?
 - What are the socio-political consequences of such use of or threat of using violence?
+
 As a natural extension, I am studying political violence and its socio-political impact, focusing on domestic unrests including protests, riots, vigilantism, and revolutions.
 
 My research interests include:
