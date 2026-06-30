@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Welcome
 permalink: /
 ---
 
@@ -12,6 +11,9 @@ permalink: /
 		style="display:block; margin:0 auto; max-width:100%; height:auto;">
 	</div>
   	<div class="column">
+		<h1>
+		<strong>Welcome</strong>
+		</h1>
 		<p>
 		Welcome to <strong>Yoonsang Lee</strong>'s Personal Website.
 		</p>
