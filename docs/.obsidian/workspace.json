@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-12-24-github-page-blog.md",
+                "file": "_posts/2025-12-23-snu-thesis-template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-24-github-page-blog"
+              "title": "2025-12-23-snu-thesis-template"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "642107eeab2a4a66",
@@ -220,11 +219,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "be6b022a69eae1d1",
+  "active": "4606088e3c0052b0",
   "lastOpenFiles": [
-    "assets/images/pages/Profile.jpg",
-    "_posts/2025-12-24-github-page-blog.md",
     "index.md",
+    "_posts/2025-12-23-snu-thesis-template.md",
+    "_posts/2025-12-24-github-page-blog.md",
+    "assets/images/pages/Profile.jpg",
     "about.md",
     "archive.md",
     "blog.md",
