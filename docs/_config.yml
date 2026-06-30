@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+<meta name="google-site-verification" content="vjN3LKrybnU68DhY9mc0r4GkrBa5qodIWOiUtTffzyY" />
+
 title: Yoonsang Lee
 email: dldbstkd0@snu.ac.kr
 description: >
@@ -27,6 +29,10 @@ url: "https://hsnlys915.github.io/" # the base hostname & protocol for your site
 # baseurl: "/about" # the subpath of your site, e.g. /blog
 # twitter_username: jekyllrb
 github_username:  hsnlys915
+
+# Search Engine Verification Setting
+webmaster_verifications:
+  google: vjN3LKrybnU68DhY9mc0r4GkrBa5qodIWOiUtTffzyY
 
 # Build settings
 remote_theme: zivhub/monophase@main
