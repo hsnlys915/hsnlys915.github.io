@@ -1,0 +1,11 @@
+{
+  "fileDirections": {
+    "SNU PRINCETON 2026/Day 1/Arturas Rozenas.md": "auto"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "preventRTLFrontmatter": false,
+  "statusBar": true
+}
