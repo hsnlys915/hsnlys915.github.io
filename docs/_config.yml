@@ -30,9 +30,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  hsnlys915
 
 # Build settings
-remote_theme: zivhub/monophase@main
+theme: monophase
 plugins:
-- jekyll-remote-theme 
+- jekyll-remote-theme
 - jekyll-google_search_console_verification_file
 
 # Search Engine Verification Setting
