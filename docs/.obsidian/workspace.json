@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "cv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "cv"
             }
           }
         ]
@@ -187,17 +187,22 @@
   },
   "active": "4606088e3c0052b0",
   "lastOpenFiles": [
-    "_posts/2025-12-23-snu-thesis-template.md",
-    "about.md",
-    "templates/PageTemplate.md",
-    "screenshot-light.png",
+    "assets/images/pages/Profile.png",
+    "assets/images/pages/Profile.paint",
     "screenshot-dark.png",
     "index.md",
+    "research.md",
+    "README.md",
+    "about.md",
+    "archive.md",
+    "blog.md",
+    "cv.md",
+    "_posts/2025-12-23-snu-thesis-template.md",
+    "templates/PageTemplate.md",
+    "screenshot-light.png",
     "_drafts",
     "_drafts/2025-12-24-github-page-blog.md",
     "assets/images/pages/Profile.jpg",
-    "archive.md",
-    "blog.md",
     "Welcome.md"
   ]
 }
