@@ -33,11 +33,13 @@ github_username:  hsnlys915
 theme: monophase
 plugins:
 - jekyll-remote-theme
-- jekyll-google_search_console_verification_file
+# - jekyll-google_search_console_verification_file
 
 # Search Engine Verification Setting
-google_search_console:
-  verification_file_code: a32a90c598b4b8f9
+#google_search_console:
+#  verification_file_code: a32a90c598b4b8f9
+webmaster_varification:
+  google: vjN3LKrybnU68DhY9mc0r4GkrBa5qodIWOiUtTffzyY
 # add this line to the plugins list if you already have one
 
 # Exclude from processing.
