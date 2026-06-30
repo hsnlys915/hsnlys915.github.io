@@ -196,6 +196,22 @@ a[href^="#fnref:"] {
   }
 }
 
+.column-container {
+  display: flex;
+  gap: 20px; /* Space between columns */
+}
+
+.column {
+  flex: 1; /* Each column takes up equal width */
+}
+
+/* Optional: Make it stack on smaller screens */
+@media (max-width: 768px) {
+  .column-container {
+    flex-direction: column;
+  }
+}
+
 /**
  * Code
  */

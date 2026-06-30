@@ -4,7 +4,8 @@ title: Welcome
 permalink: /
 ---
 
-<div>  
+<div class="column-container">
+  <div class="column">
 		<p>
 		Welcome to <strong>Yoonsang Lee</strong>'s Personal Website.
 		</p>
@@ -14,11 +15,12 @@ permalink: /
 		<p>
 		I received my Master's degree in Political Science and International Relations from Seoul National University and Bachelor's degree in International Relations and Arabic (with specialization in Middle East Area Studies) from Hankuk University of Foreign Studies.
 		</p>
-</div >
-<div align="center">
-	<img src="{{ '/assets/images/pages/Profile.jpg' | relative_url }}"
-	   alt="Profile Portrait"
-	   style="display:block; margin:0 auto; max-width:100%; height:auto;">
+	</div >
+	<div class = "column", align="center">
+		<img src="{{ '/assets/images/pages/Profile.jpg' | relative_url }}"
+		alt="Profile Portrait"
+		style="display:block; margin:0 auto; max-width:100%; height:auto;">
+	</div>
 </div>
 
 
