@@ -205,6 +205,13 @@ a[href^="#fnref:"] {
   flex: 1; /* Each column takes up equal width */
 }
 
+.rounded-circle {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
 /* Optional: Make it stack on smaller screens */
 @media (max-width: 768px) {
   .column-container {
