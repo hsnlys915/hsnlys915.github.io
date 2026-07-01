@@ -23,4 +23,4 @@ My research interests include:
 - Political Geography and Geospatial Analysis
 - Middle East and North Africa
 
-You can reach me at **Yoonsang.Lee@colorado.edu** or **dldbstkd0@snu.ac.kr**.
+You can reach me at **Yoonsang.Lee@colorado.edu**.
