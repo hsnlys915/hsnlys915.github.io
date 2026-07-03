@@ -11,17 +11,17 @@ $xl-screen: 80rem;
   /* ===== Typography ===== */
 
   /* Body: Merriweather */
-  --body-font-family: "Merriweather", Georgia, "Times New Roman", serif;
+  --body-font-family: "Cascadia Mono", "Merriweather", Georgia, "Times New Roman", serif;
   --body-font-size: 16px;
   --body-line-height: 1.7;
 
   /* Headings: Spectral */
-  --heading-font-family: "Spectral", Georgia, serif;
+  --heading-font-family: "Cascadia Mono", "Spectral", Georgia, serif;
 
   --border-radius: .5em;
 
   /* Code font (unchanged) */
-  --code-font-family: ui-monospace, Menlo, Monaco, "Cascadia Mono",
+  --code-font-family: "Cascadia Mono", ui-monospace, Menlo, Monaco, "Cascadia Mono",
     "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace",
     "Source Code Pro", "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
 
