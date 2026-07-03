@@ -31,7 +31,7 @@ $xl-screen: 80rem;
   --body-bg-color: #fef8eb;
   --body-color: #262a2d;
   --code-bg-color: var(--oc-gray-1);
-  --heading-color: var(--oc-black);
+  --heading-color: #262a2d;
   --border-color: var(--oc-gray-4);
   --link-color: var(--oc-blue-8);
   --link-color-rgb: var(--oc-blue-8-rgb);
@@ -45,5 +45,6 @@ $xl-screen: 80rem;
   :root {
     --body-bg-color: #262a2d;
     --body-color: #fef8eb;
+    --heading-color: #fef8eb;
   }
 }
