@@ -1,2 +1,2 @@
 # Yoonsang Lee
-This is a personal website of Yoonsang Lee
+A personal website of Yoonsang Lee
