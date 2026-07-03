@@ -34,6 +34,10 @@ webmaster_verifications:
   google: vjN3LKrybnU68DhY9mc0r4GkrBa5qodIWOiUtTffzyY
 
 
+# Google Analytics
+google_analytics:
+  id: G-J3M66Z3DTT
+
 # Build settings
 remote_theme: zivhub/monophase@main
 plugins:
