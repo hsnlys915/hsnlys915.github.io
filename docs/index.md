@@ -6,7 +6,7 @@ permalink: /
 <div class="column-container">
 	<div class = "column" align="center">
 		<img class = "rounded-circle"
-		src="{{ '/assets/images/pages/Profile.png' | relative_url }}"
+		src="{{ '/assets/images/pages/Profile_Portrait.png' | relative_url }}"
 		alt="Profile Portrait">
 	</div>
   	<div class="column">
