@@ -206,11 +206,11 @@ a[href^="#fnref:"] {
 }
 
 .rounded-circle {
-  border-radius: 0%;
-  width: 620px;
-  height: 620px;
+  border-radius: 50%;
+  width: 500px;
+  height: 500px;
   object-fit: cover;
- /* display: block; */
+  display: block;
   margin: 0 auto;
 }
 
