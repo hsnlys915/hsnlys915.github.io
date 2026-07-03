@@ -7,8 +7,7 @@ permalink: /
 	<div class = "column" align="center">
 		<img class = "rounded-circle"
 		src="{{ '/assets/images/pages/Profile.png' | relative_url }}"
-		alt="Profile Portrait"
-		style="display:block; margin:0 auto; max-width:100%; height:auto;">
+		alt="Profile Portrait">
 	</div>
   	<div class="column">
 		<h1>

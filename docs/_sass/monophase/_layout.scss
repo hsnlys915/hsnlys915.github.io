@@ -210,6 +210,8 @@ a[href^="#fnref:"] {
   width: 620px;
   height: 620px;
   object-fit: cover;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Optional: Make it stack on smaller screens */
