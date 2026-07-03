@@ -15,7 +15,6 @@ permalink: /research/
 }
 </style>
 
-
 ## Working Paper
 <ol>
 <li>
